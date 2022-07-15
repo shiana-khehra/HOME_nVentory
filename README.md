@@ -1,7 +1,7 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=7622788&assignment_repo_type=AssignmentRepo)
 
 HOME_nVentory
-An innovative web application that will help home owners keep track of their inventory of household items for insurance purposes.
+An innovative web application designed using MVC software architecture pattern that will help home owners keep track of their inventory of household items for insurance purposes.
 The user is able to login using email and password as well logout of application. 
 They can register (create) an account consisting of an email address, password, first name, and last name. 
 Users are able to edit their account information as well as deactivate their account. 
